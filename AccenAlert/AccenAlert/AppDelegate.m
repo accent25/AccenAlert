@@ -22,6 +22,7 @@
     NSLog(@"5번째  로그");
     NSLog(@"6번째  로그");
     NSLog(@"7번째 로깅");
+    NSLog(@"8번째 로깅해서 써드로 합치자 branch");
     // Override point for customization after application launch.
     return YES;
 }
