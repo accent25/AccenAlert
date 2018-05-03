@@ -19,6 +19,7 @@
 
     NSLog(@"세번째  로그");
     NSLog(@"4번째  로그");
+    NSLog(@"5번째  로그");
 
     // Override point for customization after application launch.
     return YES;
